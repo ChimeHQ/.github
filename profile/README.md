@@ -2,4 +2,4 @@
 
 We like modular, open source components.
 
-If you are looking for some help using our stuff, you can join us on [Discord](https://discord.gg/esFpX6sErJ). But, just keep in mind that we prioitize sponors and we try to write documentation to answer questions.
+If you are looking for some help using our stuff, issues or discussions work great. Both a [Matrix space](https://matrix.to/#/%23chimehq%3Amatrix.org) and [Discord](https://discord.gg/esFpX6sErJ) are available for live help, but we have a strong bias towards answering in the form of documentation.
